@@ -71,3 +71,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: gemini-rotation-tool, abuse, rotation, keys, free, google, ai-tools, gemini, token, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+gemini token abuse rotation keys free google ai-tools gemini-key-pool gemini-rotation-tool gemini-token-abuse windows portable prebuilt x64 free download
+related: gemini, token, abuse, rotation, keys, free, google, ai-tools
