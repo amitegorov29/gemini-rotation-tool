@@ -1,0 +1,23 @@
+{
+  "module": "gemini-rotation-tool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "keys": {
+      "enabled": true
+    },
+    "projects": {
+      "enabled": true
+    },
+    "rotate": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
